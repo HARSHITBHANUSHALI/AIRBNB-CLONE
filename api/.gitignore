@@ -1,0 +1,19 @@
+# Dependency directories
+node_modules/
+
+# Environment file
+.env
+
+# Log files
+logs/
+
+# IDE and editor specific files
+.vscode/
+.idea/
+
+# Other generated files
+*.log
+*.lock
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
